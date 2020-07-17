@@ -24,8 +24,8 @@ git rebase --abort
 | `git pull`                | `ge gibmades`              |
 | `git fetch`               | `ge schaumaamoi`           |
 | `git fetch`               | `ge schaumaamoi --ois`     |
-| `git commit --amend`      | `ge ??? --hobivagessn`     |
-| `git commit --no-verify`  | `ge ??? --passtscho`       |
+| `git commit --amend`      | `ge nimmdes --hobivagessn` |
+| `git commit --no-verify`  | `ge nimmdes --passtscho`   |
 | `git stash`               | `ge wegmitdemschaß`        |
 | `git stash pop`           | `ge wegmitdemschaß retour` |
 | `git push`                | `ge dahost`                |
