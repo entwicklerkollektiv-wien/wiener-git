@@ -34,3 +34,4 @@ git rebase --abort
 | `git rebase "branch"`      | `ge schiabsdrunta "branch"`   |
 | `git rebase --continue`    | `ge schiabsdrunta --gehweida` |
 | `git rebase --abort`       | `ge schiabsdrunta --naaoida`  |
+| `git cherry-pick`          | `ge rosinenpickn`             |
