@@ -19,18 +19,20 @@ git rebase --continue
 git rebase --abort
 ```
 
-| git command                | wienerisch                    |
-| -------------------------- | ----------------------------- |
-| `git pull`                 | `ge gibmades`                 |
-| `git fetch`                | `ge schaumaamoi`              |
-| `git fetch`                | `ge schaumaamoi --ois`        |
-| `git commit --amend`       | `ge nimmdes --hobivagessn`    |
-| `git commit --no-verify`   | `ge nimmdes --passtscho`      |
-| `git stash`                | `ge wegmitdemschaß`           |
-| `git stash pop`            | `ge wegmitdemschaß retour`    |
-| `git push`                 | `ge dahost`                   |
-| `git push --force`         | `ge dahost --ischeißaufdi`    |
-| `git checkout -b "branch"` | `ge gehumi --astl "branch"`   |
-| `git rebase "branch"`      | `ge schiabsdrunta "branch"`   |
-| `git rebase --continue`    | `ge schiabsdrunta --gehweida` |
-| `git rebase --abort`       | `ge schiabsdrunta --naaoida`  |
+| git command                | wienerisch                            |
+| -------------------------- | ------------------------------------- |
+| `git pull`                 | `ge gibmades`                         |
+| `git fetch`                | `ge schaumaamoi`                      |
+| `git fetch`                | `ge schaumaamoi --ois`                |
+| `git commit --amend`       | `ge nimmdes --hobivagessn`            |
+| `git commit --no-verify`   | `ge nimmdes --passtscho`              |
+| `git stash`                | `ge wegmitdemschaß`                   |
+| `git stash pop`            | `ge wegmitdemschaß retour`            |
+| `git push`                 | `ge dahost`                           |
+| `git push --force`         | `ge dahost --ischeißaufdi`            |
+| `git checkout -b "branch"` | `ge gehumi --astl "branch"`           |
+| `git rebase "branch"`      | `ge schiabsdrunta "branch"`           |
+| `git rebase --continue`    | `ge schiabsdrunta --gehweida`         |
+| `git rebase --abort`       | `ge schiabsdrunta --naaoida`          |
+| `git rebase --interactive` | `ge schiabsdrunta --domussiwosaendan` |
+| `git cherry-pick`          | `ge rosinenpickn`                     |
