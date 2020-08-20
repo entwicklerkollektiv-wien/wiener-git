@@ -43,7 +43,7 @@
 | git command        | wienerisch                 |
 | ------------------ | -------------------------- |
 | `git fetch`        | `ge schaumaamoi`           |
-| `git fetch`        | `ge schaumaamoi --ois`     |
+| `git fetch --all`        | `ge schaumaamoi --ois`     |
 | `git pull`         | `ge gibmades`              |
 | `git push`         | `ge dahost`                |
 | `git push --force` | `ge dahost --ischeißaufdi` |
