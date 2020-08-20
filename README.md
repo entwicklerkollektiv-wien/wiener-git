@@ -1,5 +1,26 @@
 # Wiener Git
 
+Servus und willkommen, zum wohl wichtigsten Tool für alle Wiener Entwickler! Wir haben für dich die wichtigsten git commands ins wienerische übersetzt - weil `ge schaumaamoi` einfach viel schöner klingt als `git fetch` ❤️.
+
+## How to install
+
+### ZSH Plugin
+
+Um das ZSH Plugin zu installieren, lade das plugin herunter und füge es deiner zsh installation hinzu.
+
+```
+cd ~/.oh-my-zsh/plugins
+git clone https://github.com/entwicklerkollektiv-wien/wiener-git.git
+```
+
+Danach kannst du das Plugin via plugins array im zshrc file aktivieren. Füge dazu einfach `wiener-git` zum plugins array im zshrc (`~/.zshrc`) file hinzu.
+
+```
+plugins(... wiener-git)
+```
+
+Öffne einen neuen Terminal und los gehts!
+
 ## Getting and Creating Projects
 
 | git command | wienerisch |
@@ -71,7 +92,7 @@
 | `git diff`                 | `ge ???`                              |
 | `git rebase`               | `ge schiabsdrunta`                    |
 | `git rebase --continue`    | `ge schiabsdrunta --gehweida`         |
-| `git rebase --abort`       | `ge schiabsdrunta --naaoida`          |
+| `git rebase --abort`       | `ge schiabsdrunta --naoida`           |
 | `git rebase --interactive` | `ge schiabsdrunta --domussiwosaendan` |
 | `git revert`               | `ge ???`                              |
 

@@ -25,6 +25,9 @@ function wiener-git() {
             # patching 
             rosinenpickn) git_command+=(cherry-pick);;
             schiabsdrunta) git_command+=(rebase);;
+            --gehweida) git_command+=(--continue);;
+            --naoida) git_command+=(--abort);;
+            --domussiwosaendan) git_command+=(--interactive);;
             *) git_command+=($arg);;
 
         esac
