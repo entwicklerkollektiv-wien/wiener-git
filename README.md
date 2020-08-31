@@ -23,10 +23,10 @@ plugins(... wiener-git)
 
 ## Getting and Creating Projects
 
-| git command | wienerisch |
-| ----------- | ---------- |
-| `git init`  | `ge ???`   |
-| `git clone` | `ge ???`   |
+| git command | wienerisch    |
+| ----------- | ------------- |
+| `git init`  | `ge gehmasan` |
+| `git clone` | `ge ???`      |
 
 ## Basic Snapshotting
 

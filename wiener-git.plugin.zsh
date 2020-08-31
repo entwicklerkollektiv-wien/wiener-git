@@ -4,7 +4,7 @@ function wiener-git() {
     do
         case $arg in 
             # getting and creating projects
-            status) git_command+=(status);;
+            gehmasan) git_command+=(init);;
             # basic snapshotting
             nimmdes) git_command+=(commit);;
             --hobivagessn) git_command+=(--amend);;
