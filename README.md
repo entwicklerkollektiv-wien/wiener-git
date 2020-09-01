@@ -2,6 +2,10 @@
 
 Servus und willkommen, zum wohl wichtigsten Tool für alle Wiener Entwickler! Wir haben für dich die wichtigsten git commands ins wienerische übersetzt - weil `ge schaumaamoi` einfach viel schöner klingt als `git fetch` ❤️.
 
+- [How to install](#how-to-install)
+- [Commands](#commands)
+- [Contribute](#contribute)
+
 ## How to install
 
 ### ZSH Plugin
@@ -21,14 +25,16 @@ plugins(... wiener-git)
 
 Öffne einen neuen Terminal und los gehts!
 
-## Getting and Creating Projects
+## Commands
+
+### Getting and Creating Projects
 
 | git command | wienerisch    |
 | ----------- | ------------- |
 | `git init`  | `ge gehmasan` |
 | `git clone` | `ge ???`      |
 
-## Basic Snapshotting
+### Basic Snapshotting
 
 | git command              | wienerisch                 |
 | ------------------------ | -------------------------- |
@@ -44,7 +50,7 @@ plugins(... wiener-git)
 | `git rm`                 | `ge ???`                   |
 | `git mv`                 | `ge ???`                   |
 
-## Branching and Merging
+### Branching and Merging
 
 | git command                | wienerisch                  |
 | -------------------------- | --------------------------- |
@@ -59,7 +65,7 @@ plugins(... wiener-git)
 | `git tag`                  | `ge ???`                    |
 | `git worktree`             | `ge ???`                    |
 
-## Sharing and Updating Projects
+### Sharing and Updating Projects
 
 | git command        | wienerisch                 |
 | ------------------ | -------------------------- |
@@ -71,7 +77,7 @@ plugins(... wiener-git)
 | `git remote`       | `ge ???`                   |
 | `git submodule`    | `ge ???`                   |
 
-## Inspection and Comparison
+### Inspection and Comparison
 
 | git command      | wienerisch |
 | ---------------- | ---------- |
@@ -83,7 +89,7 @@ plugins(... wiener-git)
 | `git shortlog`   | `ge ???`   |
 | `git describe`   | `ge ???`   |
 
-## Patching
+### Patching
 
 | git command                | wienerisch                            |
 | -------------------------- | ------------------------------------- |
@@ -96,10 +102,18 @@ plugins(... wiener-git)
 | `git rebase --interactive` | `ge schiabsdrunta --domussiwosaendan` |
 | `git revert`               | `ge ???`                              |
 
-## Debugging
+### Debugging
 
 | git command  | wienerisch |
 | ------------ | ---------- |
 | `git bisect` | `ge ???`   |
 | `git blame`  | `ge ???`   |
 | `git grep`   | `ge ???`   |
+
+## Contribute
+
+We love your input! You are more than welcome to contribute! Simply drop a [Pull Request](https://github.com/entwicklerkollektiv-wien/wiener-git/compare).
+
+### Special Thanks
+
+- To [Jonas](https://github.com/jonasholtkamp) for contributing `ge nimmdes`
