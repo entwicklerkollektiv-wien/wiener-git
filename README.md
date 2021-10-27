@@ -104,11 +104,11 @@ plugins(... wiener-git)
 
 ### Debugging
 
-| git command  | wienerisch |
-| ------------ | ---------- |
-| `git bisect` | `ge ???`   |
-| `git blame`  | `ge ???`   |
-| `git grep`   | `ge ???`   |
+| git command  | wienerisch     |
+| ------------ | ---------------|
+| `git bisect` | `ge ???`       |
+| `git blame`  | `ge weawoas`   |
+| `git grep`   | `ge ???`       |
 
 ## Contribute
 
