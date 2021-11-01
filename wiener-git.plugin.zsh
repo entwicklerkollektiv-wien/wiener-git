@@ -28,6 +28,8 @@ function wiener-git() {
             --gehweida) git_command+=(--continue);;
             --naoida) git_command+=(--abort);;
             --domussiwosaendan) git_command+=(--interactive);;
+            # debugging
+            weawoas) git_command+=(blame);;
             *) git_command+=($arg);;
 
         esac
