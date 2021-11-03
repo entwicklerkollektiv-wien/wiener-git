@@ -13,8 +13,8 @@ function wiener-git() {
             astl) git_command+=(branch);;
             gehumi) git_command+=(checkout);;
             --astl) git_command+=(-b);;
-            stash) git_command+=(wegmitdemschaß);;
-            pop) git_command+=(retour);;
+            wegmitdemschaß) git_command+=(stash);;
+            retour) git_command+=(pop);;
             # sharing and updating projects
             schaumaamoi) git_command+=(fetch);;
             --ois) git_command+=(--all);;
