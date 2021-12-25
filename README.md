@@ -32,13 +32,13 @@ plugins(... wiener-git)
 | git command | wienerisch    |
 | ----------- | ------------- |
 | `git init`  | `ge gehmasan` |
-| `git clone` | `ge ???`      |
+| `git clone` | `ge fladades` |
 
 ### Basic Snapshotting
 
 | git command              | wienerisch                 |
 | ------------------------ | -------------------------- |
-| `git add`                | `ge ???`                   |
+| `git add`                | `ge gibdazua`              |
 | `git status`             | `ge ???`                   |
 | `git diff`               | `ge ???`                   |
 | `git commit`             | `ge nimmdes`               |
@@ -59,7 +59,7 @@ plugins(... wiener-git)
 | `git switch`               | `ge ???`                    |
 | `git merge`                | `ge ???`                    |
 | `git mergetool`            | `ge ???`                    |
-| `git log`                  | `ge ???`                    |
+| `git log`                  | `ge gschichtl`              |
 | `git stash`                | `ge wegmitdemschaß`         |
 | `git stash pop`            | `ge wegmitdemschaß retour`  |
 | `git tag`                  | `ge ???`                    |
@@ -79,15 +79,15 @@ plugins(... wiener-git)
 
 ### Inspection and Comparison
 
-| git command      | wienerisch |
-| ---------------- | ---------- |
-| `git show`       | `ge ???`   |
-| `git log`        | `ge ???`   |
-| `git diff`       | `ge ???`   |
-| `git difftool`   | `ge ???`   |
-| `git range-diff` | `ge ???`   |
-| `git shortlog`   | `ge ???`   |
-| `git describe`   | `ge ???`   |
+| git command      | wienerisch     |
+| ---------------- | -------------- |
+| `git show`       | `ge ???`       |
+| `git log`        | `ge gschichtl` |
+| `git diff`       | `ge ???`       |
+| `git difftool`   | `ge ???`       |
+| `git range-diff` | `ge ???`       |
+| `git shortlog`   | `ge ???`       |
+| `git describe`   | `ge ???`       |
 
 ### Patching
 
