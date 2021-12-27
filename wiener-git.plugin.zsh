@@ -5,7 +5,9 @@ function wiener-git() {
         case $arg in 
             # getting and creating projects
             gehmasan) git_command+=(init);;
+            fladades) git_command+=(clone);;
             # basic snapshotting
+            gibdazua) git_command+=(add);;
             nimmdes) git_command+=(commit);;
             --hobivagessn) git_command+=(--amend);;
             --passtscho) git_command+=(--no-verify);;
@@ -13,6 +15,7 @@ function wiener-git() {
             astl) git_command+=(branch);;
             gehumi) git_command+=(checkout);;
             --astl) git_command+=(-b);;
+            gschichtl) git_command+=(log);;
             wegmitdemschaß) git_command+=(stash);;
             retour) git_command+=(pop);;
             # sharing and updating projects
