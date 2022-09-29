@@ -9,6 +9,7 @@ function wiener-git() {
             # basic snapshotting
             gibdazua) git_command+=(add);;
             nimmdes) git_command+=(commit);;
+			wostuatsi) git_command+=(status);;
             --hobivagessn) git_command+=(--amend);;
             --passtscho) git_command+=(--no-verify);;
             # branching and merging
