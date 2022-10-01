@@ -8,7 +8,7 @@ function wiener-git() {
             fladades) git_command+=(clone);;
             # basic snapshotting
             gibdazua) git_command+=(add);;
-			      wostuatsi) git_command+=(status);;
+			wostuatsi) git_command+=(status);;
             nimmdes) git_command+=(commit);;
             --hobivagessn) git_command+=(--amend);;
             --passtscho) git_command+=(--no-verify);;
