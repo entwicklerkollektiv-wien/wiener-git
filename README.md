@@ -39,7 +39,7 @@ plugins(... wiener-git)
 | git command              | wienerisch                 |
 | ------------------------ | -------------------------- |
 | `git add`                | `ge gibdazua`              |
-| `git status`             | `ge ???`                   |
+| `git status`             | `ge wostuatsi`             |
 | `git diff`               | `ge ???`                   |
 | `git commit`             | `ge nimmdes`               |
 | `git commit --amend`     | `ge nimmdes --hobivagessn` |
