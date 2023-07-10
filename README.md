@@ -1,6 +1,6 @@
 # Wiener Git
 
-Servus und willkommen, zum wohl wichtigsten Tool für alle Wiener Entwickler! Wir haben für dich die wichtigsten git commands ins wienerische übersetzt - weil `ge schaumaamoi` einfach viel schöner klingt als `git fetch` ❤️.
+Servas und willkommen, zum wohl wichtigsten Tool für alle Wiener Entwickler! Wir haben für dich die wichtigsten git commands ins wienerische übersetzt - weil `ge schaumaamoi` einfach viel schöner klingt als `git fetch` ❤️.
 
 - [How to install](#how-to-install)
 - [Commands](#commands)
@@ -36,79 +36,80 @@ plugins(... wiener-git)
 
 ### Basic Snapshotting
 
-| git command              | wienerisch                 |
-| ------------------------ | -------------------------- |
-| `git add`                | `ge gibdazua`              |
-| `git status`             | `ge wostuatsi`             |
-| `git diff`               | `ge ???`                   |
-| `git commit`             | `ge nimmdes`               |
-| `git commit --amend`     | `ge nimmdes --hobivagessn` |
-| `git commit --no-verify` | `ge nimmdes --passtscho`   |
-| `git notes`              | `ge ???`                   |
-| `git restore`            | `ge ???`                   |
-| `git reset`              | `ge ???`                   |
-| `git rm`                 | `ge ???`                   |
-| `git mv`                 | `ge ???`                   |
+| git command              | wienerisch                         |
+| ------------------------ | --------------------------         |
+| `git add`                | `ge gibdazua`                      |
+| `git status`             | `ge wostuatsi`                     |
+| `git diff`               | `ge wosisaunderst`                 |
+| `git commit`             | `ge nimmdes`                       |
+| `git commit --amend`  | `ge nimmdes --hobivagessn` |
+| `git commit --no-verify` | `ge nimmdes --passtscho`           |
+| `git notes`              | `ge zetterl`                       |
+| `git restore`            | `ge upsala`                        |
+| `git reset`              | `ge scheisdrauf`                   |
+| `git rm`                 | `ge hausweg`                       |
+| `git mv`                 | `ge hausumi`                       |
 
 ### Branching and Merging
 
-| git command                | wienerisch                  |
-| -------------------------- | --------------------------- |
-| `git branch`               | `ge astl`                   |
-| `git checkout -b "branch"` | `ge gehumi --astl "branch"` |
-| `git switch`               | `ge ???`                    |
-| `git merge`                | `ge ???`                    |
-| `git mergetool`            | `ge ???`                    |
-| `git log`                  | `ge gschichtl`              |
-| `git stash`                | `ge wegmitdemschaß`         |
-| `git stash pop`            | `ge wegmitdemschaß retour`  |
-| `git tag`                  | `ge ???`                    |
-| `git worktree`             | `ge ???`                    |
+| git command                | wienerisch                         |
+| -------------------------- | ---------------------------        |
+| `git branch`               | `ge astl`                          |
+| `git checkout -b "branch"` | `ge gehumi --astl "branch"`        |
+| `git switch`               | `ge schoitum`                      |
+| `git merge`                | `ge gulasch`                       |
+| `git mergetool`            | `ge gulaschpfandl`                 |
+| `git log`                  | `ge gschichtl`                     |
+| `git stash`                | `ge wegmitdemschas`                |
+| `git stash pop`            | `ge wegmitdemschas retour`         |
+| `git tag --sign --no-sign` | `ge merkdades --kraxn --kanekraxn` |
+| `git worktree`             | `ge oabeitsbam/bam`                |
 
 ### Sharing and Updating Projects
 
-| git command        | wienerisch                 |
-| ------------------ | -------------------------- |
-| `git fetch`        | `ge schaumaamoi`           |
-| `git fetch --all`  | `ge schaumaamoi --ois`     |
-| `git pull`         | `ge gibmades`              |
-| `git push`         | `ge dahost`                |
-| `git push --force` | `ge dahost --ischeißaufdi` |
-| `git remote`       | `ge ???`                   |
-| `git submodule`    | `ge ???`                   |
+| git command                        | wienerisch                             |
+| ------------------                 | --------------------------             |
+| `git fetch`                        | `ge schaumaamoi`                       |
+| `git fetch --all`                  | `ge schaumaamoi --ois`                 |
+| `git pull`                         | `ge gibmades`                          |
+| `git push`                         | `ge dahost`                            |
+| `git push --force`                 | `ge dahost --ischeisaufdi`             |
+| `git remote (add, rename, remove)` | `ge address (neich, ondare, wegdamit)` |
+| `git submodule`                    | `ge schublade`                         |
+| `git archive`                      | `geh packdizam`                        |
 
 ### Inspection and Comparison
 
-| git command      | wienerisch     |
-| ---------------- | -------------- |
-| `git show`       | `ge ???`       |
-| `git log`        | `ge gschichtl` |
-| `git diff`       | `ge ???`       |
-| `git difftool`   | `ge ???`       |
-| `git range-diff` | `ge ???`       |
-| `git shortlog`   | `ge ???`       |
-| `git describe`   | `ge ???`       |
+| git command      | wienerisch           |
+| ---------------- | --------------       |
+| `git show`       | `ge zeigsma`         |
+| `git log`        | `ge gschichtl`       |
+| `git diff`       | `ge wosisaunderst`   |
+| `git difftool`   | `ge ???`             |
+| `git range-diff` | `ge ???`             |
+| `git shortlog`   | `ge kuazesgschichtl` |
+| `git describe`   | `ge dazoeh`          |
 
 ### Patching
 
 | git command                | wienerisch                            |
 | -------------------------- | ------------------------------------- |
-| `git apply`                | `ge ???`                              |
+| `git apply`                | `ge hausdazua`                        |
 | `git cherry-pick`          | `ge rosinenpickn`                     |
-| `git diff`                 | `ge ???`                              |
+| `git diff`                 | `ge wosisaunderst`                    |
 | `git rebase`               | `ge schiabsdrunta`                    |
-| `git rebase --continue`    | `ge schiabsdrunta --gehweida`         |
+| `git rebase --continue`    | `ge schiabsdrunta --duaweida`         |
 | `git rebase --abort`       | `ge schiabsdrunta --naoida`           |
-| `git rebase --interactive` | `ge schiabsdrunta --domussiwosaendan` |
-| `git revert`               | `ge ???`                              |
+| `git rebase --interactive` | `ge schiabsdrunta --domuasiwosaendan` |
+| `git revert --mainline`    | `ge vagisswieda --oetan`              |
 
 ### Debugging
 
-| git command  | wienerisch     |
-| ------------ | ---------------|
-| `git bisect` | `ge ???`       |
-| `git blame`  | `ge weawoas`   |
-| `git grep`   | `ge ???`       |
+| git command  | wienerisch          |
+| ------------ | ---------------     |
+| `git bisect` | `ge wowoades`       |
+| `git blame`  | `ge weawoas`        |
+| `git grep`   | `ge suachdes`       |
 
 ## Contribute
 
